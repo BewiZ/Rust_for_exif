@@ -1,0 +1,8 @@
+[package]
+name = "exif-reader"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gufo-exif = "0.3.0"
+gufo-jpeg = "0.3.0"
